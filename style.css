@@ -1,0 +1,420 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:700,500,600|Neonderthaw:400");
+.crime{
+    align-items: flex-start;
+    border: 1px none;
+    display: flex;
+    width: 1280px;
+}
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.overlap-group5 {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 720px;
+    position: relative;
+    width: 1280px;
+}
+
+.overlap-group-1 {
+    background-color: var(--black);
+    border-radius: 7px;
+    height: 532px;
+    left: 177px;
+    position: absolute;
+    top: 94px;
+    width: 951px;
+}
+
+.lvl-0-1{
+    color: var(--bon-jour);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xs);
+    font-weight: 600;
+    left: 545px;
+    letter-spacing: 0.52px;
+    line-height: 13.1;
+    position: absolute;
+    top: -25px;
+    white-space: nowrap;
+}
+
+.ekran-gwny{
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xxl);
+    font-weight: 600;
+    left: 297px;
+    letter-spacing: 1.28px;
+    line-height: 32.3px;
+    position: absolute;
+    top: 25px;
+    white-space: nowrap;
+}
+
+.crime .rectangle {
+    border-radius: 7px;
+    height: 532px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 951px;
+}
+
+.rectangle-3{
+    background: linear-gradient(
+        305deg,
+        rgba(233, 45, 236, 0.192),
+        rgba(57, 52, 109, 0.788),
+        rgba(0, 208, 255, 0.336)
+        );
+}
+
+.text-1{
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xs);
+    font-weight: 600;
+    left: 842px;
+    letter-spacing: 0.52px;
+    line-height: 13.1px;
+    position: absolute;
+    top: 51px;
+    white-space: nowrap;
+}
+
+.rectangle-5{
+    background-color: var(--black);
+}
+
+.overlap-group1{
+    height: 59px;
+    left: 212px;
+    position: absolute;
+    top: 135px;
+    width: 134px;
+}
+
+.giga-grpa{
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    width: 150px;
+    line-height: normal;
+    position: absolute;
+    top: 23px;
+}
+
+.aktywna-grupa{
+    color: var(--bon-jour);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.6px;
+    line-height: 26.8px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+}
+
+.group-14{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    top: 221px;
+    gap: 46px;
+    left: 551px;
+    min-height: 167px;
+    width: 516px;
+}
+
+.crime .group{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 221px;
+}
+
+.overlap-group-container{
+    align-items: flex-start;
+    display: flex;
+    gap: 56px;
+    height: 97px;
+    min-width: 516px;
+}
+
+.overlap-group-3{
+    align-items: flex-end;
+    align-self: flex-end;
+    border: 1px solid;
+    border-color: var(--cyan--aqua-2);
+    border-radius: 0px 25px 0px 25px;
+    display: flex;
+    flex-direction: column;
+    min-height: 96px;
+    padding: 12px;
+    width: 230px;
+}
+
+.postp-05{
+    align-self: flex-start;
+    letter-spacing: 0.56px;
+    line-height: 25px;
+    margin-left: 3px;
+    margin-top: 8px;
+    min-height: 25px;
+    white-space: nowrap;
+}
+
+.flex-row{
+    align-items: flex-start;
+    display: flex;
+    gap: 30px;
+    height: 27px;
+    min-width: 202px;
+}
+
+.lvl-0 {
+    letter-spacing: 0.6px;
+    line-height: 26.6px;
+    min-height: 27px;
+    min-width: 40px;
+    white-space: nowrap;
+}
+
+.crime .main-page-3{
+    letter-spacing: 0.6px;
+    min-height: 24px;
+    white-space: nowrap;
+}
+
+.line-2 {
+    height: 3px;
+    margin-right: 1px;
+    width: 202px;
+}
+
+.crime .overlap-group1-3 {
+    border: 1px solid;
+    border-color: var(--cyan--aqua-2);
+    border-radius: 0px 25px 0px 25px;
+    display: flex;
+}
+.overlap-group1-2 {
+    align-items: flex-end;
+    flex-direction: column;
+    min-height: 96px;
+    padding: 12px;
+    width: 230px;
+}
+
+.poziom-perfekcjonizmu {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 24px;
+    text-align: center;
+    width: 516px;
+}
+
+.line-2-1 {
+    height: 3px;
+    left: 722px;
+    position: absolute;
+    top: 165px;
+    width: 345px;
+}
+
+.group-13{
+    gap: 15px;
+    left: 212px;
+    min-height: 310px;
+    width: 194px;
+}
+
+.overlap-group-2 {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--cyan--aqua);
+    border-radius: 0px 25px 0px 25px;
+    display: flex;
+    gap: 18px;
+    height: 50px;
+    margin-left: 0;
+    min-width: 194px;
+    padding: 12.3px 21px;
+}
+
+.icon-tasks {
+    align-self: flex-end;
+    height: 19px;
+    width: 23px;
+    margin-bottom: 1.3px;
+    white-space: nowrap;
+}
+.overlap-group {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--cyan--aqua);
+    border-radius: 0px 25px 0px 25px;
+    display: flex;
+    gap: 18px;
+    height: 23px;
+    margin-left: 0;
+    min-width: 194px;
+    padding: 12.1px 21px;
+    text-decoration: none;
+}
+
+.overlap-group-podswietlony {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--cyan--aqua-2);
+    border-radius: 0px 25px 0px 25px;
+    display: flex;
+    gap: 18px;
+    height: 23px;
+    margin-left: 0;
+    min-width: 194px;
+    padding: 12.1px 21px;
+    text-decoration: none;
+}
+
+.overlap-group:first-child{
+    margin-top: 10px;
+}
+
+.icon-user-friends {
+    align-self: center;
+    height: 19px;
+    margin-bottom: 0.05px;
+    width: 23px;
+}
+
+.czonkowie {
+    letter-spacing: 0.6px;
+    line-height: 26.8px;
+    height: 19px;
+    width: 23px;
+    white-space: nowrap;
+}
+
+.icon-star {
+    align-self: center;
+    height: 22px;
+    margin-bottom: 1.99px;
+    width: 23px;
+}
+
+.ulepszenia {
+    letter-spacing: 0.6px;
+    line-height: 26.8px;
+    height: 19px;
+    width: 23px;
+    white-space: nowrap;
+}
+
+.main-page {
+    letter-spacing: 0.6px;
+    line-height: 26.8px;
+    min-height: 25px;
+    white-space: nowrap;
+}
+
+.icon-home {
+    align-self: center;
+    height: 19px;
+    width: 23px;
+    margin-top: 1.59px;
+}
+
+.icon-bar-chart {
+    align-self: center;
+    height: 19px;
+    width: 23px;
+    margin-top: 1.59px;
+}
+
+.statystyki {
+    letter-spacing: 0.6px;
+    line-height: 26.8px;
+    height: 19px;
+    width: 23px;
+    white-space: nowrap;
+}
+
+.rp{
+    -webkit-text-stroke: 0.1px #ae00d9;
+    color: #f794f9;
+    font-family: var(--font-family-neonderthaw);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    left: 316px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 0px 5px #ee73f1;
+    top: 570px;
+    transform: rotate(6.5deg);
+}
+
+.horizon {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    left: 213px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 565px;
+}
+
+/* fonty,kolorki */
+
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --cyan--aqua: rgba(0, 255, 224, 0.102);
+    --cyan--aqua-2: rgba(0, 255, 224, 1);
+    --bon-jour: rgba(223, 223, 223, 1);
+    --white: rgba(255, 255, 255, 1);
+
+    --font-size-xs: 13px;
+    --font-size-s: 14px;
+    --font-size-m: 15px;
+    --font-size-l: 16px;
+    --font-size-xl: 24px;
+    --font-size-xxl: 32px;
+
+    --font-family-neonderthaw: "Neonderthaw";
+    --font-family-poppins: "Poppins" ;
+}
+
+/* custom klasy */
+
+.poppins-medium-white-15px {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-medium-white-14px {
+    color: var(--white);
+    font-family: var(--font-family-poppins);
+    font-size: var(--font-size-s);
+    font-weight: 500;
+    font-style: normal;
+}
